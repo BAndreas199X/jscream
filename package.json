@@ -1,0 +1,22 @@
+{
+  "name": "jscream",
+  "version": "1.0.0",
+  "description": "\"I am trying my luck with Mediums JScream-Library tutorial\"",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/BAndreas199X/jscream.git"
+  },
+  "keywords": [
+    "scream"
+  ],
+  "author": "Andreas Bauer <bauerandreas1991@gmx.de>",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/BAndreas199X/jscream/issues"
+  },
+  "homepage": "https://github.com/BAndreas199X/jscream#readme"
+}
